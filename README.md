@@ -8,7 +8,7 @@
 - 💻 I’m currently working on Web Development
 - 📚 Learning Data Structures & Algorithms
 - 📫 Reach me at: rajsaim11234@gmail.com
-- ⚡ Fun fact: I debug better at night 😄
+- 🌙 Less noise, fewer bugs 
 
 ### 🌐 Connect with me:
 <a href="https://www.linkedin.com/in/raj-gupta-b92a57326/" target="_blank">

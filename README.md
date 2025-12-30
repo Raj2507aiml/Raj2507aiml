@@ -7,7 +7,7 @@
 
 - 💻 I’m currently working on Web Development
 - 📚 Learning Data Structures & Algorithms
-- 📫 Reach me at: rajsaim11234@gmail.com
+- 📫 Reach me at: rajcseaiml1234@gmail.com
 - 🌙 Less noise, fewer bugs 
 
 ### 🌐 Connect with me:

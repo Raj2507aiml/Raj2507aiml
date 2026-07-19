@@ -50,10 +50,13 @@
 
 ---
 
+
 # 💚 GeeksforGeeks Stats
 
 <p align="center">
-  <img src="https://geeks-for-geeks-stats-card.vercel.app/?username=YOUR_GFG_USERNAME" />
+  <a href="https://www.geeksforgeeks.org/profile/rajcseaihh9v">
+    <img src="https://gfgstatscard.vercel.app/rajcseaihh9v" alt="GeeksforGeeks Stats"/>
+  </a>
 </p>
 
 ---

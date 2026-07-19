@@ -50,16 +50,6 @@
 
 ---
 
-# 📊 GitHub Stats
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Raj2507aiml&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raj2507aiml&layout=compact&theme=tokyonight&cache_seconds=1800"/>
-</p>
-
-
----
 
 # 🔥 GitHub Streak
 
@@ -69,8 +59,3 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Raj2507aiml&theme=onedark&no-frame=true&margin-w=15"/>
-</p>

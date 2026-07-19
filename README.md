@@ -50,6 +50,13 @@
 
 ---
 
+# 💚 GeeksforGeeks Stats
+
+<p align="center">
+  <img src="https://geeks-for-geeks-stats-card.vercel.app/?username=YOUR_GFG_USERNAME" />
+</p>
+
+---
 
 # 🔥 GitHub Streak
 

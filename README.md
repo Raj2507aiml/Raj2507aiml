@@ -52,13 +52,12 @@
 
 # 📊 GitHub Stats
 
+
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Raj2507aiml&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raj2507aiml&layout=compact&theme=github_dark&hide_border=true"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Raj2507aiml&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raj2507aiml&layout=compact&theme=tokyonight&cache_seconds=1800"/>
 </p>
+
 
 ---
 
